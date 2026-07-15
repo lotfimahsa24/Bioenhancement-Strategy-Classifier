@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.zip
+*.xlsx
+
+# Local dataset folder
+dataset/
+
+# Environment files
+.env
+
+# macOS
+.DS_Store
